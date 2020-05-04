@@ -1,3 +1,7 @@
+---
+layout: post
+title: My first Blog post
+---
 # Blog Post
 ## My first Blog Post
 * Post1
