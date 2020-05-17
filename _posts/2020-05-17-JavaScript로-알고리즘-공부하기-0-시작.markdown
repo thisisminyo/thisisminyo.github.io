@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[JavaScript로 알고리즘 공부하기] 0. 시작"
-categories: algoritm
+categories: jekyll
 ---
 
 _이 포스트의 내용은 도서 [Hello Coding 그림으로 개념을 이해하는 알고리즘](https://book.naver.com/bookdb/book_detail.nhn?bid=11823284)의 내용을 기반으로 하여 작성하였습니다_
