@@ -27,7 +27,7 @@ n이 100일 경우
 
 # 이진탐색 프로그램 만들기
 
-`
+```js
 binarySearch = (list, item) => {
     let low = 0;
     let high = list.length - 1;
@@ -55,7 +55,7 @@ console.log(binarySearch(list, 6)); // 5
 console.log(binarySearch(list, 2)); // 1
 console.log(binarySearch(list, 0)); // -1
 console.log(binarySearch(list, 11)); // -1
-`
+```
 
 책에 나온 파이썬 예제를 이용하여 자바스크립트 버전으로 작성 해보았다.
 
