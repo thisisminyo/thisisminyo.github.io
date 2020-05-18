@@ -8,7 +8,7 @@ _이 포스트의 내용은 도서 [Hello Coding 그림으로 개념을 이해�
 
 
 
-## 이진 탐색 (bianry search)
+## 이진 탐색 (binary search)
 
 n개의 원소를 가진 리스트를 탐색할때
 - 단순탐색 : 최대 n번
