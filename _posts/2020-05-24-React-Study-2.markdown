@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[React] React study 01"
+title: "[React] React study 02"
 categories: jekyll
 ---
 
