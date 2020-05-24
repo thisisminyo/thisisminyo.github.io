@@ -88,7 +88,7 @@ const url = `https://www.youtube.com/embed/${videoId}`;
 ### Arrow function in the component
 
 ```jsx
-<CompName functionName={para => this.setState({para})} />
+<CompName propName={para => this.setState({para})} />
 ```
 
 - render 메소드 안에서 화살표 함수를 사용하면 컴포넌트가 렌더링할 때마다 새로운 함수를 만들기 때문에 엄격한 비교에 의해 최적화가 깨질 수 있다.
