@@ -4,7 +4,7 @@ title: "[React] React study 01"
 categories: jekyll
 ---
 
-_이 포스트의 내용은 [Udemy 강좌 모던 리액트와 리덕스](www.udemy.com/course/react-redux-korean/)의 내용을 공부하며 정리한 것 입니다_
+_이 포스트의 내용은 [Udemy 강좌 모던 리액트와 리덕스](www.udemy.com/course/react-redux-korean/)의 일부를 정리한 것 입니다_
 
 ## Section 1
 
