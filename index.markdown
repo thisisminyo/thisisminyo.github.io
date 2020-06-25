@@ -5,9 +5,4 @@
 layout: home
 ---
 
-# Hi
-
-## Nice to meet you
-
--   test
--   test
+# This is minyo, nice to meet you :)
